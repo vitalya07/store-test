@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'DIN-pro-bold';
+    src: url('../../fonts/DIN-pro/dinpro_bold.otf') format('opentype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'DIN-pro-regular';
+    src: url('../../fonts/DIN-pro/dinpro_condensedregular.otf') format('opentype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'PT-sans-bold';
+    src: url('../../fonts/PT-sans/PT_Sans-Web-Bold.ttf') format('truetype');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'PT-sans-regular';
+    src: url('../../fonts/PT-sans/PT_Sans-Web-Regular.ttf') format('truetype');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../../fonts/Roboto/Roboto-Bold.eot') format('embedded-opentype'),
+         url('../../fonts/Roboto/Roboto-Bold.ttf') format('truetype'),
+         url('../../fonts/Roboto/Roboto-Bold.woff') format('woff');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../../fonts/Roboto/Roboto-Regular.eot') format('embedded-opentype'),
+         url('../../fonts/Roboto/Roboto-Regular.ttf') format('truetype'),
+         url('../../fonts/Roboto/Roboto-Regular.woff') format('woff');
+    font-weight: 400;
+}
